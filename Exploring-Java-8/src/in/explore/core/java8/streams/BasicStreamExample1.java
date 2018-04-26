@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class BasicStreamExample1 {
 
-	public static void main(String args[]) {
+	public static void main(String args[]) { 
 
 		// Filtering content from the list
 
