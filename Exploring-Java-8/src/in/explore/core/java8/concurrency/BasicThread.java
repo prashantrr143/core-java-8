@@ -35,6 +35,7 @@ public class BasicThread {
 		 * turn for processing , till myThread is completed.
 		 */
 		myThread.join();
+		
 		myExtendedThread.join();
 		myExtendedThread2.join();
 		
