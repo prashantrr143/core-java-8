@@ -20,7 +20,7 @@ public class BasicThread {
 		// running a new thread
 		myThread.start();
 		
-		 
+		
 		Thread myExtendedThread = new Thread(new MyExtednedThread());
 		myExtendedThread.setName("MyExtendedThread1Approach");
 		myExtendedThread.start();
