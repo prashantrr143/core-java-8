@@ -6,7 +6,7 @@ package in.explore.core.java8.concurrency;
  * 1. We can directly instantiate Thread 2. Or, we can provide implementation of
  * Runnable Interface and override run() method.
  * 
- * @author prasingh26
+ * @author prashantsingh
  *
  */
 public class BasicThread {
@@ -35,6 +35,7 @@ public class BasicThread {
 		 * turn for processing , till myThread is completed.
 		 */
 		myThread.join();
+		
 		myExtendedThread.join();
 		myExtendedThread2.join();
 		
