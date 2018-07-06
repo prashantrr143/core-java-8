@@ -1,4 +1,4 @@
-package in.explore.core.java8.concurrency.updates;
+package in.explore.core.java8.concurrency;
 
 import java.util.concurrent.CompletableFuture;
 
