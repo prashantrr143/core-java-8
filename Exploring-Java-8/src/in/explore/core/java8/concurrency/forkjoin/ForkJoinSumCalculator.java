@@ -1,4 +1,4 @@
-package in.explore.core.java8.concurreny.forkjoin;
+package in.explore.core.java8.concurrency.forkjoin;
 
 import java.util.Arrays;
 import java.util.concurrent.ForkJoinPool;
